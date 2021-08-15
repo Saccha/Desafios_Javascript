@@ -5,7 +5,7 @@
 - Quarta-feira, digito final da placa 5 e 6
 - Quinta-feira, digito final da placa 7 e 8
 - Sexta-feira, digito final da placa 9 e 0
-- 
+
 ## Os motoristas que são flagrados violando a restrição de circulação são autuados com multa de 4 galinhas e condenados a passar 1 semana na Muralha.
 # Entrada: 
 ## A primeira linha de entrada representa a quantidade de testes N (0 <= N < 1000) que deverão ser considerados. As demais entradas são cadeia de caracteres com tamanho máximo S (1 <= S <= 100) que representam cada placa que deverá ser analisada, de tal forma que, cada placa fique em uma única linha de entrada. O formato esperado para uma placa veicular válida em Bravoos é "AAA-9999", tal que A é um caracter válido em [A-Z], e 9 um dígito numérico válido em [0-9].
