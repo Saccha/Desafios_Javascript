@@ -5,7 +5,7 @@
 
 - Primeiro os Pares
 - Depois os Ímpares
-- 
+
 ## Você deve exibir os pares em ordem crescente e na sequência os ímpares em ordem decrescente.
 
 # Entrada
