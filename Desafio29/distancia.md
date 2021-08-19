@@ -8,11 +8,11 @@
 # Saída
 ## Imprima o tempo necessário para a moto Y ficar com a quantidade K de quilômetro da moto X, seguido da mensagem " minutos".
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| 30            | 60 minutos    |
+| Exemplo de Entrada  | Exemplo de Saida |
+| ------------------- | ---------------- |
+| 30                  | 60 minutos       |
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| 110            | 220 minutos    |
+| Exemplo de Entrada  | Exemplo de saida |
+| ------------------- | ---------------- |
+| 110                 | 220 minutos      |
 
