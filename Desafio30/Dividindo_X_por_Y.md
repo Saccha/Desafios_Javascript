@@ -6,10 +6,10 @@
 # Saída
 ## Para cada caso mostre o resultado da divisão com um dígito após o ponto decimal, ou “divisao impossivel” caso não seja possível efetuar o cálculo.
 
-| First Header  | Second Header       |
-| ------------- | ------------------- |
-| 3             | -1.5                |
-| 3 -2          |  divisao impossivel |
-| -8 0          |  0.0                |
-| 0 8           |                     |
+| Exemplo de entrada  | Exemplo de Saida    |
+| ------------------- | ------------------- |
+| 3                   | -1.5                |
+| 3 -2                |  divisao impossivel |
+| -8 0                |  0.0                |
+| 0 8                 |                     |
 
