@@ -1,6 +1,6 @@
 # Desafio 
 ## Na geometria Euclidiana, um polígono regular é um polígono em que todos os ângulos são iguais e todos os lados tem o mesmo comprimento. Um polígono simples é 
-aquele cujos segmentos de reta não se interceptam. Abaixo pode-se ver vários mosaicos feitos por polígonos regulares.
+## aquele cujos segmentos de reta não se interceptam. Abaixo pode-se ver vários mosaicos feitos por polígonos regulares.
 
 <p align="center"><img alingn="center" src="https://www.urionlinejudge.com.br/gallery/images/contests/C_1.jpg" width = "500"/></p>
 
@@ -17,4 +17,17 @@ aquele cujos segmentos de reta não se interceptam. Abaixo pode-se ver vários m
 | Exemplos de Entrada	| Exemplos de Saída |
 |---------------------|-------------------|
 |3 1                  | 3                 |
+
+| Exemplos de Entrada	| Exemplos de Saída |
+|---------------------|-------------------|
+|3 1                  | 3                 |
+
+| Exemplos de Entrada	| Exemplos de Saída |
+|---------------------|-------------------|
+|9 8                  | 72                |
+
+| Exemplos de Entrada	| Exemplos de Saída |
+|---------------------|-------------------|
+|1000000 1000         | 1000000000        |
+
 
