@@ -20,10 +20,6 @@
 
 | Exemplos de Entrada	| Exemplos de Saída |
 |---------------------|-------------------|
-|3 1                  | 3                 |
-
-| Exemplos de Entrada	| Exemplos de Saída |
-|---------------------|-------------------|
 |9 8                  | 72                |
 
 | Exemplos de Entrada	| Exemplos de Saída |
